@@ -47,7 +47,7 @@ var svgTrash   = "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.or
 // Also yes I could totally use a json object to represent the menus, but I didn't feel like reprogramming the whole script. Probably doing that next site, though.
 var linkMenu = [
   [svgTrash,                   "blue",                                        "-HEAD-"], // Anime
-  ["Horrible Subs",         "http://horriblesubs.info/",""],
+  ["Horrible Subs",            "http://horriblesubs.info/",""],
   ["MyAnimeList",              "",""],
   ["Nyaa Tracker",             "",""],
   ["BakaBT",                   "",""],
@@ -60,20 +60,20 @@ var linkMenu = [
   ["",               "",""],
   
   [svgClover,                  "cyan",                                        "-HEAD-"], // 4chan
-  ["/a/ Anime & Manga",        "",""],
-  ["/g/ Technology",           "",""],
-  ["/w/ Anime/Wallpapers",     "",""],
-  ["/wg/ Wallpaper/General",   "",""],
+  ["/g/ Tecnology",            "http://boards.4chan.org/g/",""]
+  ["/b/ Random",               "http://boards.4chan.org/b/",""],
+  ["/w/ Anime/Wallpapers",     "http://boards.4chan.org/w/",""],
+  ["/wg/ Wallpaper/General",   "http://boards.4chan.org/bg/",""],
   
   [svgCode,                    "red",                                         "-HEAD-"], // FuelRats
-  ["GitHub",                   "",""],
+  ["GitHub",                   "https://github.com/Blueerr",""],
   ["Gist",                     "",""],
   ["JSFiddle",                 "",""],
   ["Stack Overflow",           "",""],
   
   [svgGamepad,                 "magenta",                                     "-HEAD-"], // Gaming
   ["Steam",                    "http://store.steampowered.com/",""],
-  ["Crack Watch",            "https://www.reddit.com/r/CrackWatch/",""],
+  ["Crack Watch",              "https://www.reddit.com/r/CrackWatch/",""],
   ["GOG.com",                  "https://www.gog.com/",""],
   ["/r/gaming",                "",""],
   
