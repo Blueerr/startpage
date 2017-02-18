@@ -54,10 +54,10 @@ var linkMenu = [
   
   [svgSocial,                  "green",                                       "-HEAD-"], // Media
   ["YouTube",                  "https://www.youtube.com/",""],
-  ["Facebook",                 "",""],
-  ["Reddit",                   "",""],
-  ["Twitch",                   "",""],
-  ["DeviantArt",               "",""],
+  ["Facebook",                 "https://www.facebook.com/",""],
+  ["Reddit",                   "https://www.reddit.com/",""],
+  ["Twitch",                   "https://www.twitch.tv/",""],
+  ["",               "",""],
   
   [svgClover,                  "cyan",                                        "-HEAD-"], // 4chan
   ["/a/ Anime & Manga",        "",""],
@@ -72,14 +72,14 @@ var linkMenu = [
   ["Stack Overflow",           "",""],
   
   [svgGamepad,                 "magenta",                                     "-HEAD-"], // Gaming
-  ["Steam",                    "",""],
-  ["Humble Bundle",            "",""],
-  ["GOG.com",                  "",""],
+  ["Steam",                    "http://store.steampowered.com/",""],
+  ["Crack Watch",            "https://www.reddit.com/r/CrackWatch/",""],
+  ["GOG.com",                  "https://www.gog.com/",""],
   ["/r/gaming",                "",""],
   
   [svgMore,                    "yellow",                                      "-HEAD-"], // Other
-  ["Gmail",                    "",""],
-  ["Amazon",                   "",""],
+  ["Gmail",                    "https://mail.google.com/mail/u/0/",""],
+  ["Amazon",                   "https://www.amazon.it/",""],
   ["Dropbox",                  "",""],
   ["Netflix",                  "",""],
   ["Weather",                  "",""],
