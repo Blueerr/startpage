@@ -80,7 +80,7 @@ var linkMenu = [
   [svgMore,                    "yellow",                                      "-HEAD-"], // Other
   ["Gmail",                    "https://mail.google.com/mail/u/0/",""],
   ["Amazon",                   "https://www.amazon.it/",""],
-  ["Dropbox",                  "",""],
+  ["Only DPG",                 "https://blueerr.github.io/Playlist/",""],
   ["Netflix",                  "",""],
   ["Weather",                  "",""],
 ];
