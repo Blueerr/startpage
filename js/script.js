@@ -48,9 +48,9 @@ var svgTrash   = "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.or
 var linkMenu = [
   [svgTrash,                   "blue",                                        "-HEAD-"], // Anime
   ["Horrible Subs",            "http://horriblesubs.info/",""],
-  ["MyAnimeList",              "",""],
-  ["Nyaa Tracker",             "",""],
-  ["BakaBT",                   "",""],
+  ["Extra Torrent",            "http://extratorrent.cc/",""],
+  ["The Pirate Bay",           "https://pirateproxy.vip/",""],
+  ["Comfy Feel",               "https://comfyfeel.github.io/",""],
   
   [svgSocial,                  "green",                                       "-HEAD-"], // Media
   ["YouTube",                  "https://www.youtube.com/",""],
@@ -67,15 +67,15 @@ var linkMenu = [
   
   [svgCode,                    "red",                                         "-HEAD-"], // FuelRats
   ["GitHub",                   "https://github.com/Blueerr",""],
-  ["Gist",                     "",""],
-  ["JSFiddle",                 "",""],
-  ["Stack Overflow",           "",""],
+  ["Gist",                     "https://gist.github.com/",""],
+  ["JSFiddle",                 "https://jsfiddle.net/",""],
+  ["Stack Overflow",           "http://stackoverflow.com/",""],
   
   [svgGamepad,                 "magenta",                                     "-HEAD-"], // Gaming
   ["Steam",                    "http://store.steampowered.com/",""],
   ["Crack Watch",              "https://www.reddit.com/r/CrackWatch/",""],
   ["GOG.com",                  "https://www.gog.com/",""],
-  ["/r/gaming",                "",""],
+  ["/r/gaming",                "https://www.reddit.com/r/gaming/",""],
   
   [svgMore,                    "yellow",                                      "-HEAD-"], // Other
   ["Gmail",                    "https://mail.google.com/mail/u/0/",""],
