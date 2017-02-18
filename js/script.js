@@ -57,7 +57,7 @@ var linkMenu = [
   ["Facebook",                 "https://www.facebook.com/",""],
   ["Reddit",                   "https://www.reddit.com/",""],
   ["Twitch",                   "https://www.twitch.tv/",""],
-  ["",               "",""],
+  ["Whatsapp",                 "https://web.whatsapp.com/",""],
   
   [svgClover,                  "cyan",                                        "-HEAD-"], // 4chan
   ["/g/ Tecnology",            "http://boards.4chan.org/g/",""]
