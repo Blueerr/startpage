@@ -63,7 +63,7 @@ var linkMenu = [
   ["/g/ Tecnology",            "http://boards.4chan.org/g/",""],
   ["/b/ Random",               "http://boards.4chan.org/b/",""],
   ["/w/ Anime/Wallpapers",     "http://boards.4chan.org/w/",""],
-  ["/wg/ Wallpaper/General",   "http://boards.4chan.org/bg/",""],
+  ["/wg/ Wallpaper/General",   "http://boards.4chan.org/wg/",""],
   
   [svgCode,                    "red",                                         "-HEAD-"], // FuelRats
   ["GitHub",                   "https://github.com/Blueerr",""],
