@@ -81,8 +81,8 @@ var linkMenu = [
   ["Gmail",                    "https://mail.google.com/mail/u/0/",""],
   ["Amazon",                   "https://www.amazon.it/",""],
   ["Only DPG",                 "https://blueerr.github.io/Playlist/",""],
-  ["Netflix",                  "",""],
-  ["Weather",                  "",""],
+  ["OneDrive",                 "https://onedrive.live.com/?id=1255BB0E6355D6BF%21152&cid=1255BB0E6355D6BF",""],
+  ["OneNote",                  "https://www.onenote.com/notebooks?auth=1&nf=1&fromAR=1",""],
 ];
 // DID I FORGET TO MENTION?! THE DEMO LINKS DO NOTHING!
 
