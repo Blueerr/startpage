@@ -49,7 +49,7 @@ var linkMenu = [
   [svgTrash,                   "blue",                                        "-HEAD-"], // Anime
   ["Horrible Subs",            "http://horriblesubs.info/","Horrible Subs"],
   ["Extra Torrent",            "http://extratorrent.cc/",""],
-  ["The Pirate Bay",           "https://pirateproxy.vip/",""],
+  ["The Pirate Bay",           "https://pirateproxy.cc/",""],
   ["Comfy Feel",               "https://comfyfeel.github.io/",""],
   
   [svgSocial,                  "green",                                       "-HEAD-"], // Media
