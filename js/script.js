@@ -3,12 +3,6 @@
 /* If there are any similarities left, it's probably because it's based on his code.                 */
 /*==================================================================================================*/
 
-var $ = function(id) {
-  return document.getElementById(id);
-};
-var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-var dayNames = ["SUNDAY", "MONDAY", "TUESDAY", "WEDNESDAY", "THRUSDAY", "FRIDAY", "SATURDAY"];
-
 /*==============*/
 /*== Options ==*/
 /*============*/
@@ -93,8 +87,6 @@ var linkMenu = [
 //core element vars
 var searchInput = $('searchBar');
 var rootMenuUL = $('categoryMenu');
-var dateDiv = $('dateContainer');
-var notesTextarea = $('notesInput');
 
 function init() {
   initSearchBar();
@@ -120,18 +112,6 @@ function initSearchBar() {
   searchInput.value = "";
 }
 
-function buildDate() {
-  var today = new Date();
-  dateDiv.innerHTML = "<font class=\"font-3em\">" +
-                      monthNames[today.getMonth()] + 
-                      " " + 
-                      today.getDate() + 
-                      "</font><br><font>" + 
-                      dayNames[today.getDay()] + 
-                      ", " + 
-                      today.getFullYear() +
-                      "</font>";
-}
 
 function buildMenu() {
   var newMenu = "";
@@ -207,12 +187,6 @@ function handleQuery(event, query) {
     searchInput.blur();
   }
 }
-
-function handleNoteInput(event) {
-  var key = event.keyCode || event.which;
-  if (key === 27) {
-    notesTextarea.blur();
-  }
 }
 
 var noteText = null;
