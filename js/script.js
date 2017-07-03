@@ -120,17 +120,6 @@ function initSearchBar() {
   searchInput.value = "";
 }
 
-function buildDate() {
-  var today = new Date();
-  dateDiv.innerHTML = "<font class=\"font-3em\">" +
-                      monthNames[today.getMonth()] + 
-                      " " + 
-                      today.getDate() + 
-                      "</font><br><font>" + 
-                      dayNames[today.getDay()] + 
-                      ", " + 
-                      today.getFullYear() +
-                      "</font>";
 }
 
 function buildMenu() {
